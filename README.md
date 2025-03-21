@@ -29,7 +29,7 @@ Upon execution, the script will:
 2. Prompt to initiate an SSH brute-force attack if SSH is detected as open.
 3. Request username and password list files for the attack. (must be .txt files)
 
-## Recommended Testing Setup
+## Recommended Testing Setup
 
 For testing purposes, it is recommended to set up a virtual lab environment:
 
